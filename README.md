@@ -1,3 +1,3 @@
 # KarelTheRobot
-# Excercises from Stanford cs106a online
-# Completed Feb/March 2015
+# Exercises from first few classes of Stanford cs106a online Java class
+# Completed March 2015
